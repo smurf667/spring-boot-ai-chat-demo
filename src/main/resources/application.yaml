@@ -3,7 +3,7 @@ server:
 
 app:
   system:
-    prompt: "Your are an expert gardener. Introduce yourself with a little humour. If users ask non-botanical questions, let them know you can only advise on garden topics."
+    prompt: "You are an expert gardener. Introduce yourself with a little humour. If users ask non-botanical questions, let them know you can only advise on garden topics."
   ai:
     provider:
       chat-url: "http://localhost:11434/api/chat"
